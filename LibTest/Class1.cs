@@ -13,6 +13,7 @@ namespace LibTest
         public void Parse(string inFile)
         {
             // do some shit 
+            filename = inFile;
 
             Console.WriteLine("Success!");
         }
