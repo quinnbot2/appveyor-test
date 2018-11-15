@@ -1,0 +1,16 @@
+C:\work\dquinn_Jankbook_9845\LibTest\ParseTest\bin\Debug\ParseTest.exe.config
+C:\work\dquinn_Jankbook_9845\LibTest\ParseTest\bin\Debug\ParseTest.exe
+C:\work\dquinn_Jankbook_9845\LibTest\ParseTest\bin\Debug\ParseTest.pdb
+C:\work\dquinn_Jankbook_9845\LibTest\ParseTest\bin\Debug\LibTest.dll
+C:\work\dquinn_Jankbook_9845\LibTest\ParseTest\bin\Debug\LibTest.pdb
+C:\work\dquinn_Jankbook_9845\LibTest\ParseTest\obj\Debug\ParseTest.csprojResolveAssemblyReference.cache
+C:\work\dquinn_Jankbook_9845\LibTest\ParseTest\obj\Debug\ParseTest.exe
+C:\work\dquinn_Jankbook_9845\LibTest\ParseTest\obj\Debug\ParseTest.pdb
+C:\work\dquinn_Jankbook_9845\appveyor-test\ParseTest\bin\Debug\ParseTest.exe.config
+C:\work\dquinn_Jankbook_9845\appveyor-test\ParseTest\obj\Debug\ParseTest.exe
+C:\work\dquinn_Jankbook_9845\appveyor-test\ParseTest\obj\Debug\ParseTest.pdb
+C:\work\dquinn_Jankbook_9845\appveyor-test\ParseTest\bin\Debug\ParseTest.exe
+C:\work\dquinn_Jankbook_9845\appveyor-test\ParseTest\bin\Debug\ParseTest.pdb
+C:\work\dquinn_Jankbook_9845\appveyor-test\ParseTest\bin\Debug\LibTest.dll
+C:\work\dquinn_Jankbook_9845\appveyor-test\ParseTest\bin\Debug\LibTest.pdb
+C:\work\dquinn_Jankbook_9845\appveyor-test\ParseTest\obj\Debug\ParseTest.csprojResolveAssemblyReference.cache

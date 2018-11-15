@@ -1,0 +1,10 @@
+C:\work\dquinn_Jankbook_9845\LibTest\LibTest\bin\Debug\LibTest.dll
+C:\work\dquinn_Jankbook_9845\LibTest\LibTest\bin\Debug\LibTest.pdb
+C:\work\dquinn_Jankbook_9845\LibTest\LibTest\obj\Debug\LibTest.csprojResolveAssemblyReference.cache
+C:\work\dquinn_Jankbook_9845\LibTest\LibTest\obj\Debug\LibTest.dll
+C:\work\dquinn_Jankbook_9845\LibTest\LibTest\obj\Debug\LibTest.pdb
+C:\work\dquinn_Jankbook_9845\appveyor-test\LibTest\bin\Debug\LibTest.dll
+C:\work\dquinn_Jankbook_9845\appveyor-test\LibTest\bin\Debug\LibTest.pdb
+C:\work\dquinn_Jankbook_9845\appveyor-test\LibTest\obj\Debug\LibTest.csprojResolveAssemblyReference.cache
+C:\work\dquinn_Jankbook_9845\appveyor-test\LibTest\obj\Debug\LibTest.dll
+C:\work\dquinn_Jankbook_9845\appveyor-test\LibTest\obj\Debug\LibTest.pdb
